@@ -8,3 +8,4 @@ const jill: {name:string} = {
 
 const person: Person = jill;
 console.log(person);
+

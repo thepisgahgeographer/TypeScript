@@ -1,5 +1,17 @@
-var val = 22;
-val = "String";
-val = new Array();
-val.push(33);
-console.log(val);
+// let val: any = 22;
+// val = "String";
+// val = new Array();
+// val.push(33);
+// console.log(val);
+// let flyRod: {Brand: string} & {length: number} = {
+//     Brand: "Cabelas",
+//     length: 6.6
+// }
+// console.log(flyRod)
+// let bike: {travel: string} | {travel: number} = {
+//     travel: 160
+// }
+// console.log(bike);
+var testing;
+testing = "Timbered Ridge";
+console.log(testing);
