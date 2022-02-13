@@ -25,3 +25,28 @@ type testing = "Hibriten" | "Hen" | "Timbered Ridge";
 let ridge: testing = "Timbered Ridge";
 
 console.log(ridge);
+
+
+
+
+type Mountains = {
+  name: string,
+  height: number,
+  trail: boolean
+};
+
+let hibriten: Mountains = {name:"Hibriten", height: 2235, trail: true};
+console.log(hibriten);
+
+let ary: string[] = ["Hibriten" ,"Hen" ,"Timbered Ridge"]
+console.log(ary[2]);
+
+
+
+
+
+
+
+
+
+//
